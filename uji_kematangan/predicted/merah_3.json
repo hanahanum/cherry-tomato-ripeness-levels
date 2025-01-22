@@ -1,0 +1,76 @@
+{
+    "inference_id": "be1e4c6d-8bda-4722-bb0f-9ce0ad20038b",
+    "time": 0.10762201600027765,
+    "image": {
+        "width": 800,
+        "height": 800
+    },
+    "predictions": [
+        {
+            "x": 360.0,
+            "y": 386.5,
+            "width": 150.0,
+            "height": 291.0,
+            "confidence": 0.9013282060623169,
+            "class": "overripe",
+            "class_id": 2,
+            "detection_id": "f74426a7-8677-4f21-956a-65db7cac729b"
+        },
+        {
+            "x": 219.5,
+            "y": 296.5,
+            "width": 147.0,
+            "height": 311.0,
+            "confidence": 0.8995663523674011,
+            "class": "overripe",
+            "class_id": 2,
+            "detection_id": "93d1beb1-8f80-45b6-a41d-dbef64055ecd"
+        },
+        {
+            "x": 495.5,
+            "y": 485.5,
+            "width": 173.0,
+            "height": 343.0,
+            "confidence": 0.8981722593307495,
+            "class": "overripe",
+            "class_id": 2,
+            "detection_id": "620076d8-6558-473b-a574-7b03f5d5ace7"
+        },
+        {
+            "x": 304.5,
+            "y": 678.5,
+            "width": 147.0,
+            "height": 243.0,
+            "confidence": 0.8800066113471985,
+            "class": "unripe",
+            "class_id": 3,
+            "detection_id": "e8b674a4-a5ed-4f3c-8b4b-220d9415615e"
+        },
+        {
+            "x": 622.5,
+            "y": 361.5,
+            "width": 115.0,
+            "height": 225.0,
+            "confidence": 0.5262895226478577,
+            "class": "unripe",
+            "class_id": 3,
+            "detection_id": "cd49ddd5-7837-4d6a-a660-c52b69b9cb71"
+        },
+        {
+            "x": 592.0,
+            "y": 571.0,
+            "width": 112.0,
+            "height": 186.0,
+            "confidence": 0.4431447684764862,
+            "class": "unripe",
+            "class_id": 3,
+            "detection_id": "2ed34a08-d2cd-4063-ae0c-cf9bd93650e4"
+        }
+    ],
+    "detections_count": {
+        "fine": 0,
+        "unripe": 3,
+        "overripe": 3,
+        "damaged": 0
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "inference_id": "55d21e00-5a9e-4592-9ac1-83989eb5dd1e",
+    "time": 0.10868150599981163,
+    "image": {
+        "width": 800,
+        "height": 800
+    },
+    "predictions": [
+        {
+            "x": 366.5,
+            "y": 363.0,
+            "width": 207.0,
+            "height": 164.0,
+            "confidence": 0.7748783826828003,
+            "class": "unripe",
+            "class_id": 3,
+            "detection_id": "bd12cc5c-aff6-46fe-8935-fe7772a1af31"
+        }
+    ],
+    "detections_count": {
+        "fine": 0,
+        "unripe": 1,
+        "overripe": 0,
+        "damaged": 0
+    }
+}

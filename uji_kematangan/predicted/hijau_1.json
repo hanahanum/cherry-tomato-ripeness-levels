@@ -1,0 +1,15 @@
+{
+    "inference_id": "c2aeb310-d727-43cd-9106-53ba52c42677",
+    "time": 0.09110405399997035,
+    "image": {
+        "width": 800,
+        "height": 800
+    },
+    "predictions": [],
+    "detections_count": {
+        "fine": 0,
+        "unripe": 0,
+        "overripe": 0,
+        "damaged": 0
+    }
+}

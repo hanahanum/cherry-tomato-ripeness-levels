@@ -1,0 +1,86 @@
+{
+    "inference_id": "ce4d512d-eecf-481e-a860-41002b43d3d8",
+    "time": 0.0887406760000431,
+    "image": {
+        "width": 800,
+        "height": 800
+    },
+    "predictions": [
+        {
+            "x": 442.5,
+            "y": 699.5,
+            "width": 109.0,
+            "height": 173.0,
+            "confidence": 0.9090443849563599,
+            "class": "damaged",
+            "class_id": 0,
+            "detection_id": "ec1fedb3-11b6-486f-b1a2-1490b8a82856"
+        },
+        {
+            "x": 326.5,
+            "y": 141.5,
+            "width": 79.0,
+            "height": 135.0,
+            "confidence": 0.8682218194007874,
+            "class": "fine",
+            "class_id": 1,
+            "detection_id": "ef9d1be7-de05-40b9-904a-0f55aa27e537"
+        },
+        {
+            "x": 365.5,
+            "y": 309.5,
+            "width": 97.0,
+            "height": 157.0,
+            "confidence": 0.8638491034507751,
+            "class": "fine",
+            "class_id": 1,
+            "detection_id": "323b456e-5243-499c-ad99-4715b5315f20"
+        },
+        {
+            "x": 541.0,
+            "y": 715.5,
+            "width": 102.0,
+            "height": 159.0,
+            "confidence": 0.8129904270172119,
+            "class": "damaged",
+            "class_id": 0,
+            "detection_id": "ba46958c-562b-4a80-b81e-ea0035e8a5c0"
+        },
+        {
+            "x": 229.0,
+            "y": 166.5,
+            "width": 96.0,
+            "height": 163.0,
+            "confidence": 0.7973422408103943,
+            "class": "fine",
+            "class_id": 1,
+            "detection_id": "0caeb940-6c1a-4798-a85d-4930ebdf637d"
+        },
+        {
+            "x": 282.0,
+            "y": 247.0,
+            "width": 110.0,
+            "height": 176.0,
+            "confidence": 0.7674576044082642,
+            "class": "fine",
+            "class_id": 1,
+            "detection_id": "abd2b38c-4472-44a0-8837-0b55b02e9046"
+        },
+        {
+            "x": 314.5,
+            "y": 640.0,
+            "width": 113.0,
+            "height": 182.0,
+            "confidence": 0.5069327354431152,
+            "class": "damaged",
+            "class_id": 0,
+            "detection_id": "3d953308-9594-4d63-8052-7974dc507cfa"
+        }
+    ],
+    "detections_count": {
+        "fine": 4,
+        "unripe": 0,
+        "overripe": 0,
+        "damaged": 3
+    }
+}

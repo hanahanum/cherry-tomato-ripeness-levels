@@ -1,0 +1,66 @@
+{
+    "inference_id": "8cdd2326-acc1-4472-8e62-c23604c1d52b",
+    "time": 0.09316142099987701,
+    "image": {
+        "width": 800,
+        "height": 800
+    },
+    "predictions": [
+        {
+            "x": 501.5,
+            "y": 285.0,
+            "width": 199.0,
+            "height": 342.0,
+            "confidence": 0.8956854343414307,
+            "class": "fine",
+            "class_id": 1,
+            "detection_id": "848d0a09-ed40-461a-9c47-d0141d8f096c"
+        },
+        {
+            "x": 356.5,
+            "y": 455.5,
+            "width": 173.0,
+            "height": 299.0,
+            "confidence": 0.8829058408737183,
+            "class": "fine",
+            "class_id": 1,
+            "detection_id": "1eb558d3-6d50-4059-89d2-9a7888fb5a92"
+        },
+        {
+            "x": 648.0,
+            "y": 305.5,
+            "width": 140.0,
+            "height": 299.0,
+            "confidence": 0.82917320728302,
+            "class": "fine",
+            "class_id": 1,
+            "detection_id": "800c621a-4592-4361-ba28-9e1db89bcd40"
+        },
+        {
+            "x": 64.0,
+            "y": 502.5,
+            "width": 128.0,
+            "height": 285.0,
+            "confidence": 0.8095586895942688,
+            "class": "unripe",
+            "class_id": 3,
+            "detection_id": "b181fdb1-f418-463c-969c-6d37a8cc8082"
+        },
+        {
+            "x": 186.0,
+            "y": 473.5,
+            "width": 158.0,
+            "height": 293.0,
+            "confidence": 0.7011884450912476,
+            "class": "unripe",
+            "class_id": 3,
+            "detection_id": "3e82b49f-272a-448a-b848-8fb8b98262d7"
+        }
+    ],
+    "detections_count": {
+        "fine": 3,
+        "unripe": 2,
+        "overripe": 0,
+        "damaged": 0
+    }
+}

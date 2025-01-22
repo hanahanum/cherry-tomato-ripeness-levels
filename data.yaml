@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['damaged', 'fine', 'overripe', 'unripe']
+
+roboflow:
+  workspace: hanahanumws
+  project: quality-of-cherry-tomato
+  version: 2
+  license: Private
+  url: https://app.roboflow.com/hanahanumws/quality-of-cherry-tomato/2
